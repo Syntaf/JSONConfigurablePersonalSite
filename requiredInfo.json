@@ -3,7 +3,7 @@
   "siteDescription": "My Personal Webpage",
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
-  "description": "Hi I'm Grant Mercer. Here i've collected information about my passion and work!",
+  "description": "Hi. I'm Grant Mercer, a passion driven developer and coding enthusiast",
   "resumeFile": "https://dl.dropboxusercontent.com/u/78573135/Curriculumvitae09262015.pdf",
   "icons": [
     {"icon": "page", "link": "/resume"},
@@ -12,6 +12,7 @@
     {"icon": "mail", "link": "mailto:gmercer015@gmail.com"}
   ],
   "projects": [
+    {"title":"VOCAL", "link": "/vocal"},
     {"title":"Particle Simulator", "link": "/particlesimulator"},
     {"title":"Maze Solver", "link": "/mazesolver"},
     {"title":"Travis-Sphinx", "link": "/travissphinx"}
