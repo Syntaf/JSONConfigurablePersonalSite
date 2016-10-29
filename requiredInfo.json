@@ -4,7 +4,7 @@
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
   "description": "Hi. I'm Grant Mercer, a passion driven developer and coding enthusiast",
-  "resumeFile": "https://dl.dropboxusercontent.com/u/78573135/Curriculumvitae09262015.pdf",
+  "resumeFile": "https://www.dropbox.com/s/858nbdpg0678ry8/Curriculumvitae10282016.pdf?dl=0",
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
@@ -14,7 +14,7 @@
   "projects": [
     {"title":"VOCAL", "link": "/vocal"},
     {"title":"Particle Simulator", "link": "/particlesimulator"},
-    {"title":"Maze Solver", "link": "/mazesolver"},
+    {"title":"Slackline Kit Picker", "link": "/slacklinepicker"},
     {"title":"Travis-Sphinx", "link": "/travissphinx"}
   ]
 }
