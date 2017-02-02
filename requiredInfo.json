@@ -4,7 +4,7 @@
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
   "description": "Hi. I'm Grant Mercer, a passion driven developer and coding enthusiast",
-  "resumeFile": "https://www.dropbox.com/s/858nbdpg0678ry8/Curriculumvitae10282016.pdf?dl=0",
+  "resumeFile": "https://www.dropbox.com/s/4fihuqpz70d1w8d/public_resume02022017.pdf?dl=0",
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
@@ -12,6 +12,7 @@
     {"icon": "mail", "link": "mailto:gmercer015@gmail.com"}
   ],
   "projects": [
+    {"title":"SMSforecast", "link": "/smsforecast"}
     {"title":"VOCAL", "link": "/vocal"},
     {"title":"Particle Simulator", "link": "/particlesimulator"},
     {"title":"Slackline Kit Picker", "link": "/slacklinepicker"},
