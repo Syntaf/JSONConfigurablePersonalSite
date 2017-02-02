@@ -12,7 +12,7 @@
     {"icon": "mail", "link": "mailto:gmercer015@gmail.com"}
   ],
   "projects": [
-    {"title":"SMSforecast", "link": "/smsforecast"}
+    {"title":"SMSforecast", "link": "/smsforecast"},
     {"title":"VOCAL", "link": "/vocal"},
     {"title":"Particle Simulator", "link": "/particlesimulator"},
     {"title":"Slackline Kit Picker", "link": "/slacklinepicker"},
