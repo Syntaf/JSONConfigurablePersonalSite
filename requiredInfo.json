@@ -4,7 +4,7 @@
   "avatar": "/img/avatar.jpg",
   "background": "/img/background.jpg",
   "description": "Hi. I'm Grant Mercer, a passion driven developer and coding enthusiast",
-  "resumeFile": "https://www.dropbox.com/s/4fihuqpz70d1w8d/public_resume02022017.pdf?dl=0",
+  "resumeFile": "https://dl.dropboxusercontent.com/u/78573135/public_resume02022017.pdf",
   "icons": [
     {"icon": "page", "link": "/resume"},
     {"icon": "social-github", "link": "/github"},
