@@ -15,6 +15,7 @@
     {"title":"SMSforecast", "link": "/smsforecast"},
     {"title":"VOCAL", "link": "/vocal"},
     {"title":"Particle Simulator", "link": "/particlesimulator"},
+    {"title":"Slackline Group Map", "link": "/slacklinegroups"},
     {"title":"Slackline Kit Picker", "link": "/slacklinepicker"},
     {"title":"Travis-Sphinx", "link": "/travissphinx"}
   ]
