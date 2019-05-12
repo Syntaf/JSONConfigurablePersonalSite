@@ -771,6 +771,10 @@ ul.links li a:hover {
     }
 }
 
+.loaded {
+    display: inline-block !important;
+}
+
 body.landing {
     background-color: #242424;
     text-align: center;
@@ -799,7 +803,7 @@ body.landing #bg {
     -o-animation-fill-mode: forwards;
     -ms-animation-fill-mode: forwards;
     animation-fill-mode: forwards;
-    background-image: url("/background");
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url("/background");
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(100% + 20px);

@@ -29,9 +29,13 @@
     $(function() {
         var $window = $(window),
             $body = $('body'),
+            $wrapper = $('#wrapper'),
             page = $body.attr('class').split(' ')[0];
         if (skel.vars.isMobile) $body.addClass('is-touch');
-        $body.addClass('is-loading');
+        // $body.addClass('is-loading');
+        setTimeout(() => {
+            $wrapper.addClass('loaded');
+        }, 200);
         $window.on('load', function() {
             $body.removeClass('is-loading');
         });

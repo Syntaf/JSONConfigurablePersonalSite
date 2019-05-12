@@ -1,10 +1,11 @@
 {
+  "wetrockpolice": "http://www.wetrockpolice.com",
+  "slacklinegroups": "http://www.slacklinegroups.com/",
+  "travissphinx": "https://github.com/Syntaf/travis-sphinx",
   "smsforecast": "https://www.smsforecast.com",
-  "vocal": "http://syntaf.github.io/vocal/overview.html",
+  "vocal": "http://nasa-develop.github.io/VOCAL/",
   "github": "http://github.com/Syntaf",
   "linkedin": "https://www.linkedin.com/pub/grant-mercer/97/520/82a",
   "particlesimulator": "https://github.com/Syntaf/ParticleSimulator",
-  "slacklinegroups": "http://www.slacklinegroups.com/",
-  "slacklinepicker": "https://github.com/Syntaf/slp",
-  "travissphinx": "https://github.com/Syntaf/travis-sphinx"
+  "slacklinepicker": "https://github.com/Syntaf/slp"
 }

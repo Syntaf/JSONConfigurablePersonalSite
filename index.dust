@@ -22,7 +22,7 @@
 		</noscript>
 	</head>
 	<body class="landing">
-		<div id="wrapper">
+		<div id="wrapper" style="display: none;">
 			<header id="header">
 				<div class="avatar"></div>
 				<p>{description}</p>
