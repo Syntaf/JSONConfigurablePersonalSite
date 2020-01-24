@@ -14,7 +14,6 @@
   "projects": [
     {"title":"Red Rock Rain Report", "link": "/wetrockpolice"},
     {"title":"Slackline Group Map", "link": "/slacklinegroups"},
-    {"title":"SMSforecast", "link": "/smsforecast"},
     {"title":"VOCAL", "link": "/vocal"},
     {"title":"Particle Simulator", "link": "/particlesimulator"},
     {"title":"Slackline Kit Picker", "link": "/slacklinepicker"},
